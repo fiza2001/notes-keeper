@@ -1,9 +1,9 @@
 body{
-    background-color: #CFD2CF;
+    background-color: lightgreen;
 }
 #form-text{
     width: 350px;
-    background-color: whitesmoke;
+    background-color: lightgrey;
     border: none;
     outline: none;
 }
